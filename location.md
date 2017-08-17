@@ -4,7 +4,11 @@ title: Location
 permalink: /location/
 ---
 
-The ceremony and reception will be held at the beautiful [Dwór Zlotopolska Dolina](http://www.zlotopolskadolina.pl).
+<a href="{{ site.baseurl }}/images/venue.jpg" title="Dwór Złotopolska Dolina">
+    <img alt="Dwór Złotopolska Dolina" src="{{ site.baseurl }}/images/venue.jpg" style="width:100%">
+ </a>
+ 
+The ceremony and reception will be held at the beautiful [Dwór Złotopolska Dolina](http://www.zlotopolskadolina.pl).
 
 The wedding venue does have limited rooms available and these are open to our
 guests on a first come first serve basis.
