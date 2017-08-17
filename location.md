@@ -2,6 +2,7 @@
 layout: page
 title: Location
 permalink: /location/
+order: 1
 ---
 
 <a href="{{ site.baseurl }}/images/venue.jpg" title="Dwór Złotopolska Dolina">
@@ -12,7 +13,7 @@ The ceremony and reception will be held at the beautiful [Dwór Złotopolska Dol
 
 The wedding venue does have limited rooms available and these are open to our
 guests on a first come first serve basis.
-Please contact us directly if you would like to reserve one of these rooms.
+Please [contact](mailto:{{ site.email }}) us directly if you would like to reserve one of these rooms.
 
 For those who would like to arrange their own accommodation then all the usual
 options (hotels/AirBnB) are available within short driving/taxi distances from

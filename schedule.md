@@ -2,6 +2,7 @@
 layout: page
 title: Schedule
 permalink: /schedule/
+order: 2
 ---
 
 The ceremony will begin at **4pm** outside (but covered) in the garden of the Manor
