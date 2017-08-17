@@ -11,7 +11,7 @@ We're Getting Married!
 Friday June 29th, 2018
 ----
 
-Dwór Złotopolska Dolina
+Dwór Złotopolska Dolina, Zakroczym, Poland
 ----
 
 <a href="images/Justyna-Geo.jpg" title="Justyna and George">
