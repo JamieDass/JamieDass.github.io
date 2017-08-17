@@ -16,4 +16,4 @@ the venue. The prices per night for hotels in the area (Nowy Dwór Mazowiecki)
 range from £20 -£50 for a double room.
 
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1jxKLWJsVVNZD6UmFgN2viMcV31M&hl=en" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1jxKLWJsVVNZD6UmFgN2viMcV31M&hl=en" width="100%" height="480"></iframe>
